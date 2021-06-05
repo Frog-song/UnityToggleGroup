@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F2AF03CC-5CE2-F2D7-E89F-2F7B6677213E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MultipleSelections/MultipleSelectionsManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MultipleSelections/MultipleSelectionCanvasManager.cs" Line="4" Column="60" />
+      <File FileName="Assets/Data/Selections.txt" />
+      <File FileName="Assets/Scripts/MultipleSelections/MultipleSelectionTexts.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SingleSelection/SelectionManager.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/SingleSelection/CanvasManager.cs" Line="35" Column="6" />
+      <File FileName="Assets/Scripts/MultipleSelections/MultipleSelectionsManager.cs" Line="112" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ToggleGroupDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="MultipleSelections" expanded="True">
+                  <Node name="MultipleSelectionsManager.cs" selected="True" />
+                </Node>
+                <Node name="SingleSelection" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a7d84cef-8c44-40d2-a9d0-081984ad2a74" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

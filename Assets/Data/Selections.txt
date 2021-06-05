@@ -1,0 +1,49 @@
+﻿{
+    "selectionTexts": [
+        {
+            "KeyString":"Age",
+            "selections":
+            [
+                "Less than 20",
+                "More than 20, Less than 40",
+                "More than 40, Less than 60",
+                "More than 60, Less than 80",
+                "More than 80"
+            ]
+        },
+        {
+            "KeyString":"Sex",
+            "selections":
+            [
+                "Male",
+                "Female"
+            ]
+        },
+        {
+            "KeyString":"P Class",
+            "selections":
+            [
+                "Upper",
+                "Middle",
+                "Lower"
+            ]
+        },
+        {
+            "KeyString":"Embarked",
+            "selections":
+            [
+                "Cherbourg",
+                "Queenstown",
+                "Southampton"
+            ]
+        },
+        {
+            "KeyString":"Survival",
+            "selections":
+            [
+                "Yes",
+                "No"
+            ]
+        }
+    ]
+}
